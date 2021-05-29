@@ -1,0 +1,3 @@
+,_id,id,name,cam_name,user_email,to_phone_no,user_contact,cam_url,state,city,location,pincode,cam_add_time,cam_delete_time,cam_status,stream_status,cam_input_url,alert_array,alert_detection_arr
+0,604eac665cd9b28d73143f1b,saurabh,saurabh,cam1,a@gmail.com,987654321,235688998,rtmp://192.168.10.10/live/pune201,Maharashtra,Pune District,viman nagar,411014,03/12/21 10:40:53,,live,connected,rtmp://192.168.10.10/live/pune201,"['Social Distancing Violation', 'robbery detection']",['Robbery']
+1,604eacdb5cd9b28d73143f1c,siril,siril,cam1,a@gmail.com,987654321,235688998,rtmp://192.168.10.10/live/pune201,Maharashtra,Pune District,viman nagar,411014,03/12/21 10:40:53,,live,disconnected,rtmp://192.168.10.10/live/pune201,"['Social Distancing Violation', 'robbery detection']",['Robbery']
